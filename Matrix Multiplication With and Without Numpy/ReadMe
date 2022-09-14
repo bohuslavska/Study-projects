@@ -1,0 +1,2 @@
+This easy project aims to compare the speed of matrix multiplication with and without 
+the NumPy library (the fundamental package for scientific computing with Python).
