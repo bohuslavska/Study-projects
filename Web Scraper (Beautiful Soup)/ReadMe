@@ -1,0 +1,5 @@
+This project was completed as a part of the Natural Language Processing course on JetBrains Academy.
+
+The program takes two parameters from the user input (the number of pages and the type of article). 
+Then it goes all over the website and saves every article of the specified type to a separate .txt file on your computer. 
+The number of pages from the user input determines how many pages the program should check for the articles.
