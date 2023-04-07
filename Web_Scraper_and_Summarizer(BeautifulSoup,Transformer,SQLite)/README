@@ -1,0 +1,2 @@
+This project aimed at scraping some news articles from a multidisciplinary science journal Nature using the Beautiful Soup library, summarizing them with a transformer model T5 Large, creating a dataset, and storing it in an SQLite database.
+
