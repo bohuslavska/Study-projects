@@ -18,6 +18,5 @@ The project consists of the following steps:
 
 **Flask web application**: A Flask web application is made to enable users to interact with the recommender system. The application allows users to enter a movie title and receive a list of 10 recommended movies with links to the IMDb. This project utilizes Jaro-Winkler distance metric for fuzzy matching of movie titles. This metric has been preferred over other distance metrics like Levenshtein or Damerau-Levenshtein as it has a significant advantage when calculating ratios or percentages for smaller strings.
 
-<img width="574" alt="Screenshot 2023-04-22 at 18 29 12" src="https://user-images.githubusercontent.com/94128854/233793306-a898720e-6879-4303-ae2f-afcfd8d91db5.png">
-
+<img width="440" alt="Screenshot 2023-04-22 at 18 34 01" src="https://user-images.githubusercontent.com/94128854/233793484-034cce6b-6789-4331-b745-74fa62d1f2ff.png">
 <img width="574" alt="Screenshot 2023-04-22 at 18 29 25" src="https://user-images.githubusercontent.com/94128854/233793310-1e191534-d14f-4253-82a2-fe0319f91275.png">
