@@ -1,7 +1,0 @@
-This project was completed as a part of the Machine Learning Engineer course at an online school for programming, analytics, and data science robot_dreams.
-
-The aim of this project was to build a simple content-based recommender system. While doing this project, I learned how to
-
-- preprocess text with the help of the NLTK library
-- vectorize text with the help of CountVectorizer
-- apply cosine similarity
