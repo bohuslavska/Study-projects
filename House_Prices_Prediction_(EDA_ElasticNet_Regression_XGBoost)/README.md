@@ -8,7 +8,7 @@ It consists of 79 explanatory variables describing almost every aspect of reside
 The target variable is the final price of each home. The dataset is split into a training set and a test set. 
 The training set is used to build the models, while the test set is used to evaluate the models' performance.
 
-Project Overview
+### Project Overview
 
 The following steps were followed to build the models:
 
