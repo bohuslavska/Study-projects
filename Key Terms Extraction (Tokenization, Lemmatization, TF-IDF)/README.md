@@ -1,4 +1,4 @@
-# Key Terms Extraction
+# Key Term Extraction from News Articles
 
 ### About the Project
 
