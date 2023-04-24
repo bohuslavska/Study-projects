@@ -1,12 +1,12 @@
-## Content-Based Recommender
+## Content-Based Movie Recommender
 
 ### About the Project
 
-This is a project for building a content-based recommender system. The dataset used in this project is sourced from Kaggle and contains information on movies released between 1900 and 2017. The project is built using Python and several Python libraries such as pandas, numpy, nltk, and scikit-learn.
+This is a project for building a Content-Based Movie Recommender system. The dataset used in this project is sourced from Kaggle and contains information on movies released between 1900 and 2017. The project is built using Python and several Python libraries such as pandas, numpy, nltk, and scikit-learn.
 
 ### Project Overview
 
-The Content-Based Recommender is an algorithm that recommends movies based on the cosine similarity of their descriptions. The system uses a dataset of movies that contains several text-based columns, including description and tagline.
+The Content-Based Movie Recommender is an algorithm that recommends movies based on the cosine similarity of their descriptions. The system uses a dataset of movies that contains several text-based columns, including description and tagline.
 
 The project consists of the following steps:
 
