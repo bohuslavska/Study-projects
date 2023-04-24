@@ -1,9 +1,0 @@
-The project was completed as a part of the Natural Language Processing course on JetBrains Academy.
-
-The aim of this project was to learn how to extract key terms from a collection of news stories. While doing this project, I found out how to
-
-- read an XML file and extract the headers and the text;
-- tokenize each text;
-- lemmatize each word in each story;
-- get rid of punctuation, stopwords, and non-nouns with the help of NLTK;
-- count the TF-IDF metric for each word in all stories.
