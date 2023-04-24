@@ -55,8 +55,8 @@ def recommend_movie():
             recs = df.loc[df['title'] == k, 'recommendations']
             recs = recs.values[0]
 
-            result = "<p>" + "Perhaps you mean {k}?" + "</p>"
-            result = "<p>" + "Your list of recommendations:" + "</p>"
+            result = "<p>" + f"Perhaps you mean {k}?" + "</p>"
+            result += "<p>" + "Your list of recommendations:" + "</p>"
             result += "<ul>"
                     
             for key,value in recs.items():
