@@ -18,7 +18,7 @@ Specifically, it performs the following steps:
 - **Part-of-speech tagging**: assigns a grammatical tag to each word
 - **Noun extraction**: selects only the nouns in the text
 
-After cleaning and tokenizing the text, the script applies the TfidfVectorizer class from the scikit-learn library to compute the TF-IDF score for each word in all news. 
-This score reflects how important each word is in the context of the corpus, by balancing its frequency in the document with its frequency in the corpus.
+After cleaning and tokenizing the text, the script applies the TfidfVectorizer class from the scikit-learn library to compute the TF-IDF score for each word in all news. This score reflects how important each word is in the context of the corpus, by balancing its frequency in the document with its frequency in the corpus.
+
 Finally, the script loops through each news story and selects the top five words with the highest TF-IDF scores as the keywords. 
 It prints the headlines and the keywords, sorted alphabetically.
