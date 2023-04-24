@@ -1,4 +1,4 @@
-# Using BeautifulSoup, Selenium, and Newspaper3k for Web Scraping of Russian Propaganda and Building a Fake News Dataset
+# Web Scraping Russian Propaganda for Building a Fake News Dataset with BeautifulSoup, Selenium, and Newspaper3k
 
 ### About the Project
 This project was completed as a part of the Fake News Detection with NLP Models course by Gathers. 
