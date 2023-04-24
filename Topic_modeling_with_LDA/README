@@ -1,0 +1,2 @@
+In this project, my main task was to uncover some patterns in a collection of user utterances. For this purpose, I performed topic modeling with the help of Latent Dirichlet Allocation (LDA). This algorithm assumes that 'each topic is a mixture over an underlying set of words, and each document is a mixture of over a set of topic probabilities.'
+LDA helped me to explore the Intertopic Distance Map and Top-30 Most Salient Terms. Although the map shows several distinct clusters, it is clear that there are a lot of ambiguous utterances overlapping with one another. 
