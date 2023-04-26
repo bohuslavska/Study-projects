@@ -1,0 +1,1 @@
+This project was completed as a part of the Machine Learning Engineer course from robot_dreams. My main task was to build a machine-learning model that predicts which Tweets are about real disasters and which ones are not. I performed text preprocessing and compared three classification models: Logistic Regression, multinomial Naive Bayes classifier, and Random Forest Classifier.
