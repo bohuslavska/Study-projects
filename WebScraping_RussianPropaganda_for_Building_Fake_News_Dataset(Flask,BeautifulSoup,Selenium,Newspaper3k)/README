@@ -1,4 +1,0 @@
-This project was completed as a part of the Fake News Detection with NLP Models course by Gathers. The task was to scrape examples of the Russian propaganda collected by Authors of VoxCheck on the website https://rusdisinfo.voxukraine.org/. The first part of the task was dedicated to the making of a simple Flask app with fake news sorted by categories. The second part of the task was aimed at the creation of the labeled fake news dataset. During work on this project, I used various scraping tools like
--   Beautiful Soup
--   Selenium
--   Newspaper3k.
